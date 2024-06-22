@@ -1,0 +1,6 @@
+.text-on-image {
+    color: white;
+    /* Or black depending on your base color choice */
+    text-shadow: 2px 2px 0 black;
+    /* Adjust stroke width and color as needed */
+}
