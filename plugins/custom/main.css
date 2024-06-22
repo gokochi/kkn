@@ -4,3 +4,7 @@
     text-shadow: 2px 2px 0 black;
     /* Adjust stroke width and color as needed */
 }
+
+img.logo.img-fluid{
+    max-width: 50%;
+}
